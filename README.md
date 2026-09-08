@@ -36,7 +36,6 @@ To secure a SIWES / IT internship placement with a cybersecurity-focused organis
 **B.Tech in Cybersecurity**
 Federal University of Technology, Akure (FUTA) | 2024 – Present
 
-
 Relevant coursework: Ethical Hacking, Network Security, Digital Forensics, Cloud Computing, Cryptography, Operating Systems, Vulnerability Assessment.
 
 ---
@@ -48,7 +47,7 @@ Relevant coursework: Ethical Hacking, Network Security, Digital Forensics, Cloud
 | **CyberProwess 2026** | Ethical Hacking & VAPT Bootcamp — weekly live sessions, practical labs, assignments | 🟢 Active |
 | **Trios Cyber Global Internship** | Cybersecurity practice, threat analysis, professional development — international cohort | 🟢 Active |
 | **VulnTech Cybersecurity Internship** | Structured training track with certification and offer letter on completion | 🟢 Active |
-| **Ubuntu Bridge Initiative (UBI)** | Ethical Hacking — DFIR, VAPT, Incident Response, Penetration Testing | ✅ Completed  intermidiate internship|
+| **Ubuntu Bridge Initiative (UBI)** | Ethical Hacking — DFIR, VAPT, Incident Response, Penetration Testing | ✅ Completed intermidiate internship |
 
 ---
 
@@ -90,6 +89,7 @@ Hands-on labs across OWASP Top 10 categories including SQL injection, XSS, and a
 
 | Credential | Issuer | Status |
 |---|---|---|
+| Cyber Career Essentials | ERNITH | ✅ [Completed](https://ernith.com/verify/ERN-CCE-26-R4TUTKUM) |
 | Cloud Computing | IBM SkillsBuild | ✅ Completed |
 | Cloud Security | Aviatrix | ✅ Completed |
 | Python Programming | Skybil | ✅ Completed |
